@@ -16,7 +16,7 @@ Pour la realisation de la dite application nous avons eu recours a deux framewor
 
 <p>![image](https://user-images.githubusercontent.com/37142461/50552023-e0ea9180-0c8a-11e9-9332-9c84023312a0.png)</p>
 
-<li>Quelques fonctions Importante</li>
+<h3>Quelques fonctions Importante</h3>
 <li>Cote client</li>
 <p>![image](https://user-images.githubusercontent.com/37142461/50552035-2313d300-0c8b-11e9-8976-441c2b85a2a4.png)</p>
 
